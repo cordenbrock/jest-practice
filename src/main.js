@@ -4,11 +4,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './css/styles.css';
 import Triangle from './js/triangle.js';
 import Rectangle from './js/rectangle.js';
-// import { Test1 } from "./js/circle.js";
+// import { Test1, Test2 } from "./js/test.js";
 
-// let test = "test"
-// let testing = Test1(test);
-// console.log(testing);
+
+// console.log(Test1(), Test2());
 
 
 $('#triangle-checker-form').submit(function(event) {
